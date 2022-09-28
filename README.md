@@ -4,30 +4,12 @@
 
 ### اسم الطالب
 
-
+محمد فلاح جمعه
 ### اسم المشروع
-
+خدمات بنكية
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+اختيار نوع البطايق البنكية
 
 # الأعمال المستقبلية
-
-
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
-
-
